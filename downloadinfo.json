@@ -11,14 +11,21 @@
       "mp_na":"11a17b188668469fb0412708c3d16813",
       "ads_list": ["am"]
     },
-    "com.beauty.photo.debug": {
-      "am_ba": "0XqqpGbjRpZqYzzc1V1rhSuu20zKBUypElMvvsFnw2NqsLoL3FhO3LHCGjMGAnXE",
-      "am_in": "",
-      "am_na": "0XqqpGbjRpZqYzzc1V1rhUCazHc3fTQM5K6qaWGEcMxwRjMTs15tGPICle9MxuJY",
+    "frame.art.master.sweet.sefie.snap.camera": {
+      "am_ba": "ca-app-pub-7303580732007982/5409386656",
+      "am_in": "ca-app-pub-7303580732007982/4096304981",
+      "am_na": "ca-app-pub-7303580732007982/2783223310",
 
-      "am2_ba": "",
-      "am2_in": "0XqqpGbjRpZqYzzc1V1rhXjNc1uNQJjaNpjzKAI+mRuMMmEu+5pGoDfi7w0tAIi9",
-      "am2_na": ""
+      "fb_ba":"725165924780587_944743042822873",
+      "fb_in":"725165924780587_944743119489532",
+      "fb_re":"725165924780587_944743302822847",
+      "fb_na":"725165924780587_944743216156189",
+
+      "mp_ba":"b195f8dd8ded45fe847ad89ed1d016da",
+      "mp_re":"252412d5e9364a05ab77d9396346d73d",
+      "mp_in":"24534e1901884e398f1253216226017e",
+      "mp_na":"11a17b188668469fb0412708c3d16813",
+      "ads_list": ["am", "fb"]
     }
   },
   {
