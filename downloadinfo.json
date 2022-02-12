@@ -1,5 +1,12 @@
 [
   {
+    "frame.art.master.neon.horns.devil.photo.editor": {
+      "am_ba": "ca-app-pub-3204717227920759/3590479816",
+      "am_in": "ca-app-pub-3204717227920759/6079582793",
+      "am_na": "ca-app-pub-3204717227920759/1735306818",
+      
+      "ads_list": ["am"]
+    },
     "com.sweet.camera.selfie.filters.test": {
       "am_ba": "ca-app-pub-3940256099942544/6300978111",
       "am_in": "ca-app-pub-3940256099942544/1033173712",
