@@ -1,22 +1,9 @@
 [
   {
     "frame.art.master.neon.horns.devil.photo.editor": {
-      "am_ba": "ca-app-pub-3204717227920759/3590479816",
-      "am_in": "ca-app-pub-3204717227920759/6079582793",
-      "am_na": "ca-app-pub-3204717227920759/1735306818",
-      
-      "ads_list": ["am"]
-    },
-    "com.sweet.camera.selfie.filters.test": {
-      "am_ba": "ca-app-pub-3940256099942544/6300978111",
-      "am_in": "ca-app-pub-3940256099942544/1033173712",
-      "am_na": "ca-app-pub-3940256099942544/2247696110",
+      "is_id": "137ed09b9",
 
-      "mp_ba":"b195f8dd8ded45fe847ad89ed1d016da",
-      "mp_re":"252412d5e9364a05ab77d9396346d73d",
-      "mp_in":"24534e1901884e398f1253216226017e",
-      "mp_na":"11a17b188668469fb0412708c3d16813",
-      "ads_list": ["am"]
+      "ads_list": ["is"]
     },
     "frame.art.master.sweet.sefie.snap.camera": {
       "am_ba": "ca-app-pub-7303580732007982/5409386656",
