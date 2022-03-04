@@ -5,6 +5,13 @@
 
       "ads_list": ["is"]
     },
+    "com.beauty.photo.debug": {
+      "am2_ba": "ca-app-pub-3940256099942544/6300978111",
+      "am2_in": "ca-app-pub-3940256099942544/1033173712",
+      "am2_na": "ca-app-pub-3940256099942544/2247696110",
+
+      "ads_list": ["am"]
+    },
     "frame.art.master.sweet.sefie.snap.camera": {
       "am_ba": "ca-app-pub-7303580732007982/5409386656",
       "am_in": "ca-app-pub-7303580732007982/4096304981",
