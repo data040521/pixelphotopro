@@ -46,13 +46,7 @@
         "CL", "CN", "CO", "CR", "HR", "CY", "CZ", "DO", "EC", "EG", "EE", "FJ", "GR", "GY", "HK",
         "HU", "IS", "IL", "JP", "KZ", "LV", "LT", "MO", "MY", "MT", "MX", "ME", "MA", "NP", "OM",
         "PA", "PY", "PE", "PH", "PL", "PT", "PR", "QA", "KR", "RO", "RU", "SA", "RS", "SG", "SK",
-        "SI", "ZA", "TH", "TR", "UA", "AE", "UY", "VU",
-        "AL", "DZ", "AO", "AM", "AZ", "BH", "BD", "BB", "BZ", "BJ", "BW", "BF", "BI", "KH", "CM",
-        "CV", "TD", "KM", "CD", "CG", "SV", "ET", "GA", "GE", "GT", "GW", "GN", "HT", "HN", "IQ",
-        "JM", "JO", "KE", "KW", "KG", "LA", "LB", "LS", "MK", "MG", "ML", "MR", "MU", "MD", "MN",
-        "MZ", "NA", "NI", "NE", "NG", "PK", "SN", "LK", "SR", "TJ", "TZ", "TG", "TT", "TN", "TM",
-        "UG", "UZ", "ZM",
-        "VN", "IN", "BR", "ID"]
+        "SI", "ZA", "TH", "TR", "UA", "AE", "UY", "VU"]
     }
   }
 ]
