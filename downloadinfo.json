@@ -1,14 +1,22 @@
 [
   {
     "frame.art.master.live.face.sticker.sweet.camera": {
+      "am2_ba": "ca-app-pub-7366455238376297/1394622936",
+      "am2_in": "ca-app-pub-7366455238376297/9328953276",
+      "am2_na": "ca-app-pub-7366455238376297/5142296255",
+
       "is_id": "13c95b011",
 
-      "ads_list": ["is"]
+      "ads_list": ["am", "is"]
     },
     "frame.art.master.neon.horns.devil.photo.editor": {
+      "am2_ba": "ca-app-pub-7366455238376297/4612330131",
+      "am2_in": "ca-app-pub-7366455238376297/8534746356",
+      "am2_na": "ca-app-pub-7366455238376297/5908583019",
+
       "is_id": "137ed09b9",
 
-      "ads_list": ["is"]
+      "ads_list": ["am", "is"]
     },
     "com.beauty.photo.debug": {
       "am2_ba": "ca-app-pub-3940256099942544/6300978111",
@@ -32,7 +40,19 @@
   },
   {
     "common": {
-      "nation_allow":["AU", "AT", "BE", "CA", "DK", "FI", "FR", "DE", "IE", "IT", "LU", "NL", "NZ", "NO", "ES", "SE", "CH", "GB", "US"]
+      "nation_allow":["AU", "AT", "BE", "CA", "DK", "FI", "FR", "DE", "IE", "IT", "LU", "NL", 
+        "NZ", "NO", "ES", "SE", "CH", "GB", "US", 
+        "AD", "AR", "BS", "BY", "BO", "BA", "BN", "BG",
+        "CL", "CN", "CO", "CR", "HR", "CY", "CZ", "DO", "EC", "EG", "EE", "FJ", "GR", "GY", "HK",
+        "HU", "IS", "IL", "JP", "KZ", "LV", "LT", "MO", "MY", "MT", "MX", "ME", "MA", "NP", "OM",
+        "PA", "PY", "PE", "PH", "PL", "PT", "PR", "QA", "KR", "RO", "RU", "SA", "RS", "SG", "SK",
+        "SI", "ZA", "TH", "TR", "UA", "AE", "UY", "VU",
+        "AL", "DZ", "AO", "AM", "AZ", "BH", "BD", "BB", "BZ", "BJ", "BW", "BF", "BI", "KH", "CM",
+        "CV", "TD", "KM", "CD", "CG", "SV", "ET", "GA", "GE", "GT", "GW", "GN", "HT", "HN", "IQ",
+        "JM", "JO", "KE", "KW", "KG", "LA", "LB", "LS", "MK", "MG", "ML", "MR", "MU", "MD", "MN",
+        "MZ", "NA", "NI", "NE", "NG", "PK", "SN", "LK", "SR", "TJ", "TZ", "TG", "TT", "TN", "TM",
+        "UG", "UZ", "ZM",
+        "VN", "IN", "BR", "ID"]
     }
   }
 ]
