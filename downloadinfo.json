@@ -1,22 +1,14 @@
 [
   {
     "frame.art.master.live.face.sticker.sweet.camera": {
-      "am2_ba": "ca-app-pub-8102506517736691/6482749348",
-      "am2_in": "ca-app-pub-8102506517736691/9499278008",
-      "am2_na": "ca-app-pub-8102506517736691/1230422662",
-
       "is_id": "13c95b011",
 
-      "ads_list": ["am", "is"]
+      "ads_list": ["is"]
     },
     "frame.art.master.neon.horns.devil.photo.editor": {
-      "am2_ba": "ca-app-pub-8102506517736691/4048157695",
-      "am2_in": "ca-app-pub-8102506517736691/2735076024",
-      "am2_na": "ca-app-pub-8102506517736691/1421994358",
-
       "is_id": "137ed09b9",
 
-      "ads_list": ["am", "is"]
+      "ads_list": ["is"]
     },
     "com.beauty.photo.debug": {
       "am2_ba": "ca-app-pub-3940256099942544/6300978111",
