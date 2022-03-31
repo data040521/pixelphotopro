@@ -1,22 +1,14 @@
 [
   {
     "frame.art.master.live.face.sticker.sweet.camera": {
-      "am2_ba": "ca-app-pub-5082741806887748/8149395673",
-      "am2_in": "ca-app-pub-5082741806887748/6836314003",
-      "am2_na": "ca-app-pub-5082741806887748/2039282894",
-
       "is_id": "13c95b011",
 
-      "ads_list": ["am", "is"]
+      "ads_list": ["is"]
     },
     "frame.art.master.neon.horns.devil.photo.editor": {
-      "am2_ba": "ca-app-pub-5082741806887748/7027885694",
-      "am2_in": "ca-app-pub-5082741806887748/5714804025",
-      "am2_na": "ca-app-pub-5082741806887748/3088640684",
-
       "is_id": "137ed09b9",
 
-      "ads_list": ["am", "is"]
+      "ads_list": ["is"]
     },
     "com.beauty.photo.debug": {
       "am2_ba": "ca-app-pub-3940256099942544/6300978111",
@@ -26,22 +18,18 @@
       "ads_list": ["am"]
     },
     "frame.art.master.sweet.sefie.snap.camera": {
-      "am_ba": "ca-app-pub-7303580732007982/5409386656",
-      "am_in": "ca-app-pub-7303580732007982/4096304981",
-      "am_na": "ca-app-pub-7303580732007982/2783223310",
-
       "fb_ba":"725165924780587_944743042822873",
       "fb_in":"725165924780587_944743119489532",
       "fb_re":"725165924780587_944743302822847",
       "fb_na":"725165924780587_944743216156189",
       
-      "ads_list": ["am", "fb"]
+      "ads_list": ["fb"]
     }
   },
   {
     "common": {
       "nation_allow":["AU", "AT", "BE", "CA", "DK", "FI", "FR", "DE", "IE", "IT", "LU", "NL", 
-        "NZ", "NO", "ES", "SE", "CH", "GB", "US", "VN"]
+        "NZ", "NO", "ES", "SE", "CH", "GB", "US"]
     }
   }
 ]
