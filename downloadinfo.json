@@ -3,7 +3,11 @@
     "frame.art.master.live.face.sticker.sweet.camera": {
       "is_id": "13c95b011",
 
-      "ads_list": ["is"]
+      "al_ba": "b162d7062bfc7a3b",
+      "al_in": "6ba77d4543b8848a",
+      "al_re": "59f639c92ef922bd",
+
+      "ads_list": ["al", "is"]
     },
     "frame.art.master.neon.horns.devil.photo.editor": {
       "is_id": "137ed09b9",
