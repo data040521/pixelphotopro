@@ -12,11 +12,25 @@
     "frame.art.master.neon.horns.devil.photo.editor": {
       "is_id": "137ed09b9",
 
+      "am_ba": "ca-app-pub-7303580732007982/5273022683",
+      "am_in": "ca-app-pub-7303580732007982/2862481766",
+      "am_na": "ca-app-pub-7303580732007982/4566445677",
+
+      "am2_ba": "ca-app-pub-7303580732007982/5273022683",
+      "am2_in": "ca-app-pub-7303580732007982/2862481766",
+      "am2_na": "ca-app-pub-7303580732007982/4566445677",
+
+      "am3_ba": "ca-app-pub-7303580732007982/5273022683",
+      "am3_in": "ca-app-pub-7303580732007982/2862481766",
+      "am3_na": "ca-app-pub-7303580732007982/4566445677",
+
       "al_ba": "aed05edd8e8d52d5",
       "al_in": "389191e0e6136f6d",
       "al_re": "f0fdb932b5180147",
 
-      "ads_list": ["al", "is"]
+      "interval": 60000,
+
+      "ads_list": ["am", "al", "is"]
     },
     "com.beauty.photo.debug": {
       "am3_ba": "ca-app-pub-3940256099942544/6300978111",
