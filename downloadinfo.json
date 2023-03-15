@@ -1,13 +1,27 @@
 [
   {
     "frame.art.master.live.face.sticker.sweet.camera": {
-      "is_id": "13c95b011",
+      "is_id": "",
 
       "al_ba": "b162d7062bfc7a3b",
       "al_in": "6ba77d4543b8848a",
       "al_re": "59f639c92ef922bd",
 
-      "ads_list": ["al", "is"]
+      "am_ba": "ca-app-pub-7303580732007982/1667538334",
+      "am_in": "ca-app-pub-7303580732007982/9354456667",
+      "am_na": "ca-app-pub-7303580732007982/6109631636",
+
+      "am2_ba": "ca-app-pub-7303580732007982/1667538334",
+      "am2_in": "ca-app-pub-7303580732007982/9354456667",
+      "am2_na": "ca-app-pub-7303580732007982/6109631636",
+
+      "am3_ba": "ca-app-pub-7303580732007982/1667538334",
+      "am3_in": "ca-app-pub-7303580732007982/9354456667",
+      "am3_na": "ca-app-pub-7303580732007982/6109631636",
+
+      "interval": 60000,
+
+      "ads_list": ["am", "al"]
     },
     "frame.art.master.neon.horns.devil.photo.editor": {
       "is_id": "137ed09b9",
