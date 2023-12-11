@@ -23,6 +23,23 @@
 
       "ads_list": ["am", "al"]
     },
+    "com.filters.picture": {
+      "is_id": "",
+
+      "al_ba": "",
+      "al_in": "",
+      "al_re": "",
+
+      "am_ba": "ca-app-pub-7303580732007982/6646718688",
+      "am_in": "ca-app-pub-7303580732007982/5333637013",
+      "am_na": "ca-app-pub-7303580732007982/1119059838",
+
+      "app_id": "ca-app-pub-7303580732007982~7571341131",
+
+      "interval": 45000,
+
+      "ads_list": ["am"]
+    },
     "frame.art.master.neon.horns.devil.photo.editor": {
       "is_id": "137ed09b9",
 
