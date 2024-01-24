@@ -24,7 +24,7 @@
       "ads_list": ["am", "al"]
     },
     "com.filters.picture": {
-      "is_id": "",
+      "is_id": "1d508702d",
 
       "al_ba": "",
       "al_in": "",
@@ -38,7 +38,7 @@
 
       "interval": 45000,
 
-      "ads_list": ["am"]
+      "ads_list": ["is", "am"]
     },
     "frame.art.master.neon.horns.devil.photo.editor": {
       "is_id": "137ed09b9",
